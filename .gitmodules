@@ -1,0 +1,6 @@
+[submodule "Python/ImageStitching_B"]
+	path = Python/ImageStitching_B
+	url = https://github.com/Syooian/ImageStitching_B.git
+[submodule "Unity/GetStitchedImage"]
+	path = Unity/GetStitchedImage
+	url = https://github.com/Syooian/GetStitchedImage.git
